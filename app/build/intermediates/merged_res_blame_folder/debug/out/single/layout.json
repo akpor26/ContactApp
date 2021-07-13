@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Kenneth\\AndroidStudioProjects\\ContactApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kenneth\\AndroidStudioProjects\\ContactApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kenneth\\AndroidStudioProjects\\ContactApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Kenneth\\AndroidStudioProjects\\ContactApp\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kenneth\\AndroidStudioProjects\\ContactApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contact_item.xml",
+        "source": "C:\\Users\\Kenneth\\AndroidStudioProjects\\ContactApp\\app\\src\\main\\res\\layout\\contact_item.xml"
+    }
+]

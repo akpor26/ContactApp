@@ -1,0 +1,16 @@
+com/kenneth/contactapp/BuildConfig.java
+ com.kenneth.contactapp.BuildConfig
+com/kenneth/contactapp/ContactDatabase_Impl.java
+ com.kenneth.contactapp.ContactDatabase_Impl
+ com.kenneth.contactapp.ContactDatabase_Impl$1
+com/kenneth/contactapp/ContactDAO_Impl.java
+ com.kenneth.contactapp.ContactDAO_Impl
+ com.kenneth.contactapp.ContactDAO_Impl$1
+ com.kenneth.contactapp.ContactDAO_Impl$2
+ com.kenneth.contactapp.ContactDAO_Impl$3
+com/kenneth/contactapp/databinding/ActivityMainBinding.java
+ com.kenneth.contactapp.databinding.ActivityMainBinding
+com/kenneth/contactapp/databinding/ActivityProfileBinding.java
+ com.kenneth.contactapp.databinding.ActivityProfileBinding
+com/kenneth/contactapp/databinding/ContactItemBinding.java
+ com.kenneth.contactapp.databinding.ContactItemBinding
